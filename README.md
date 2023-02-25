@@ -2,8 +2,8 @@
 # Yo yo! I'm Justin Ekema :palm_tree: 
 ### :rocket: and I'm a Web XR Disciple :evergreen_tree:
 ---       
-- :sparkles: I’m currently working on A-Frame UX Library Engine and WebXR Experiences.
-- :tulip: I’m currently learning Aframe, Javascript, Blender and more!
+- :sparkles: I’m currently working on A-Frame UX Library Engine, WebXR games, Sidequest's Banter content and other XR experiences.
+- :tulip: I’m currently mastering Aframe, Javascript, Blender and more!
 - :house_with_garden: I want to build immersive and unique experiences.
 - :recycle: I’m looking to collaborate on Web XR experiences.
 - :watermelon: How to reach me: *minty-crisp @ protonmail . com*
