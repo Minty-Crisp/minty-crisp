@@ -1,7 +1,5 @@
-#  :watermelon: **Minty Crisp**
-# Yo yo! I'm Justin Ekema :palm_tree: 
-### :rocket: and I'm a Web XR Developer :evergreen_tree:
----       
+#  :watermelon: **Minty Crisp** | Justin Ekema :palm_tree: 
+### :rocket: Web XR A-Frame Developer :evergreen_tree:
 - :sparkles: I’m currently working on AUXL(A-Frame UX Library Engine), Minty's XRcade, Web XR Components, Experiments & Games as well as helping out fledgling and fellow A-Frame developers.
 - :tulip: I’m currently mastering Aframe, Javascript, Blender and more!
 - :house_with_garden: I want to build immersive and unique experiences.
@@ -15,5 +13,5 @@
 			- :gem: [Blender](https://github.com/blender/blender)
 				- :pizza: [Mozilla Hubs](https://github.com/mozilla/hubs)
 					- :hotsprings: [RenPy](https://github.com/renpy/renpy)
----
-- :ribbon: Go watch the movie Gattaca (1997), you wont regret it! :crescent_moon:
+
+![Portfolio Preview](https://github.com/Minty-Crisp/mintycrispblog/blob/main/assets/img/previews/mintycrisp-portfolio-tiny.jpg)
