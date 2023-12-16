@@ -24,6 +24,8 @@ Discord : @mintycrisp
 - - -
 
 ## A Few Project Highlights! :sparkles:
+[CAOS XR | Companion App Operating System for eXtended Reality](https://github.com/Minty-Crisp/CAOSXR) ! - Coming Soon - !
+
 [AUXL | A-Frame UX Library](https://github.com/Minty-Crisp/AUXL)
 
 [Minty's XRcade](https://github.com/Minty-Crisp/XRcade)
