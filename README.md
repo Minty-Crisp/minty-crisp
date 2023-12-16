@@ -11,6 +11,8 @@
 
 [Mastodon Social](https://mastodon.social/@mintycrisp)
 
+[Blue Sky Social](https://bsky.app/profile/mintycrisp.bsky.social)
+
 [Glitch Projects](https://glitch.com/@mintycrisp)
 
 Email : [minty-crisp@protonmail.com](mailto:minty-crisp@protonmail.com)
