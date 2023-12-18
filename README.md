@@ -1,7 +1,7 @@
 # :watermelon: **Minty Crisp** | Justin Ekema :palm_tree: 
 ### Web XR A-Frame Developer :evergreen_tree:
 
-- :tulip: I’m currently working on a new A-Frame WebXR RPG game, 'Polymon XR'. More info coming soon!
+- :tulip: I’m currently working on a new A-Frame WebXR game. More info coming soon!
 - :recycle: Check out my projects and posts for various A-Frame Tips & Tricks.
 - :gem: If you or your company are in need of an A-Frame Developer, Debugger or Tutor then I am available to help. Contact me today!
 
