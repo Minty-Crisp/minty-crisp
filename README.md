@@ -5,9 +5,7 @@
 - :recycle: Check out my projects and posts for various A-Frame Tips & Tricks.
 - :gem: If you or your company are in need of an A-Frame Developer, Debugger or Tutor then I am available to help. Contact me today!
 
-[Home Page | MintyCrisp.com](https://mintycrisp.com)
-
-[Dev Blog | MintyCrisp](https://dev.to/mintycrisp)
+[Portfolio | MintyCrisp.com](https://mintycrisp.com)
 
 [Mastodon Social | MintyCrisp](https://mastodon.social/@mintycrisp)
 
@@ -17,7 +15,11 @@
 
 [Glitch Projects | MintyCrisp](https://glitch.com/@mintycrisp)
 
+[Dev Blog | MintyCrisp](https://dev.to/mintycrisp)
+
 Email : [minty-crisp@protonmail.com](mailto:minty-crisp@protonmail.com)
+
+[Itch Store | MintyCrisp](https://mintycrisp.itch.io/)
 
 [Support me on Ko-fi | MintyCrisp](https://ko-fi.com/mintycrisp)
 
