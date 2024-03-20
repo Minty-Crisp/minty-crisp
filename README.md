@@ -7,19 +7,19 @@
 
 [Home Page | MintyCrisp.com](https://mintycrisp.com)
 
-[Dev Blog](https://dev.to/mintycrisp)
+[Dev Blog | MintyCrisp](https://dev.to/mintycrisp)
 
-[Mastodon Social](https://mastodon.social/@mintycrisp)
+[Mastodon Social | MintyCrisp](https://mastodon.social/@mintycrisp)
 
-[Blue Sky Social](https://bsky.app/profile/mintycrisp.bsky.social)
+[Blue Sky Social | MintyCrisp.bsky.social](https://bsky.app/profile/mintycrisp.bsky.social)
 
-[Glitch Projects](https://glitch.com/@mintycrisp)
+[Discord | MintyCrisp](discordapp.com/users/983857672233304064)
+
+[Glitch Projects | MintyCrisp](https://glitch.com/@mintycrisp)
 
 Email : [minty-crisp@protonmail.com](mailto:minty-crisp@protonmail.com)
 
-Discord : @mintycrisp
-
-[Support me on Ko-fi](https://ko-fi.com/mintycrisp)
+[Support me on Ko-fi | MintyCrisp](https://ko-fi.com/mintycrisp)
 
 - - -
 
@@ -30,6 +30,9 @@ Discord : @mintycrisp
 [Minty's XRcade](https://github.com/Minty-Crisp/XRcade)
 
 [Game of Life | Glitch App of the Week](https://glitch.com/~mintycrisp-a-frame-game-of-life)
+
+[MC Pinball | OnCyber](https://mintycrisp.itch.io/oo-jam-mc-pinball-mintycrisp)
+
 [Pac-Man XR](https://github.com/Minty-Crisp/Pac-Man-XR_A-Frame)
 
 [Banter's BounceForce | SideQuest Grand Prize Winner](https://github.com/Minty-Crisp/banter-bounceforce)
