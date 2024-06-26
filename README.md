@@ -21,21 +21,23 @@ Email : [minty-crisp@protonmail.com](mailto:minty-crisp@protonmail.com)
 
 [Itch Store | MintyCrisp](https://mintycrisp.itch.io/)
 
-[Support me on Ko-fi | MintyCrisp](https://ko-fi.com/mintycrisp)
-
 - - -
 
 ## A Few Project Highlights! :sparkles:
 
-[AUXL | A-Frame UX Library](https://github.com/Minty-Crisp/AUXL)
-
-[Minty's XRcade](https://github.com/Minty-Crisp/XRcade)
-
 [Game of Life | Glitch App of the Week](https://glitch.com/~mintycrisp-a-frame-game-of-life)
+
+[Jinn Divination | OnCyber](https://oo.oncyber.io/minty-jinn-divination)
+
+[Snack Grabber | OnCyber](https://oo.oncyber.io/minty-snack-grabber)
 
 [MC Pinball | OnCyber](https://mintycrisp.itch.io/oo-jam-mc-pinball-mintycrisp)
 
 [Pac-Man XR](https://github.com/Minty-Crisp/Pac-Man-XR_A-Frame)
+
+[AUXL | A-Frame UX Library](https://github.com/Minty-Crisp/AUXL)
+
+[Minty's XRcade](https://github.com/Minty-Crisp/XRcade)
 
 [Banter's BounceForce | SideQuest Grand Prize Winner](https://github.com/Minty-Crisp/banter-bounceforce)
 
